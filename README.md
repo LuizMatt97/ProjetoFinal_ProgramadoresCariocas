@@ -20,7 +20,7 @@ Esse projeto foi utilizado para simular como é um ambiente de trabalho, pois fo
  
 O site tem como objetivo fornecer aos usuários uma plataforma que vai otimizar a busca por diferentes eventos locais, e ajudará também os mesmo a terem contato direto com organizadores. O site permitirá a busca de eventos como shows, festivas, conferências, exposições e muito mais. Dentro da plataforma estará disponível um filtro possibilitando o usuário encontrar eventos gratuitos ou pagos que cabem no seu bolso.
 
-Além disso, será permitido que os organizadores cadastrem seus eventos e alcancem um público mais amplo, eles poderam criar listas detalhadas de seus eventos, incluindo informações como local, data, hora, preço, descrição e muito mais.
+Além disso, será permitido que os organizadores cadastrem seus eventos e alcancem um público mais amplo, eles poderão criar listas detalhadas de seus eventos, incluindo informações como local, data, hora, preço, descrição e muito mais.
 
 nosso foco com esse site é dispobilizar eventos poucos conhecidos que sejam locais  e são interessantes, porém não possuem muito reconhecimento, seja eventos esportivos, teatrais , músicas entre outros.
 
